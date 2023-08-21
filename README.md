@@ -1,4 +1,5 @@
-<h3 align="center">A driven fullstack developer</h3>
+<h1 align="center">Hi 👋, I'm Arjun</h1>
+<h3 align="center">A driven Fullstack Developer and UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunshivakumar&label=Profile%20views&color=0e75b6&style=flat" alt="arjunshivakumar" /> </p>
 
