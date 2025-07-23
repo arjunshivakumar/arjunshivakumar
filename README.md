@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
+<p align="center"><em>I speak JSON fluently.</em></p>
+
 <h3 align="center">Backend engineer with a focus on building scalable systems and integrating generative AI into real-world applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunshivakumar&label=Profile%20views&color=0e75b6&style=flat" alt="arjunshivakumar" /> </p>
-<p align="center"><em>I speak JSON fluently.</em></p>
 
 - 🔭 I’m currently working on [One Time Secret App](https://github.com/arjunshivakumar/one-time-secret-app)
 
