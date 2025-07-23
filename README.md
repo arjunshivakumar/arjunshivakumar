@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">Backend engineer with a focus on building scalable systems and integrating generative AI into real-world applications. Currently exploring the fine line between clean architecture and AI-induced chaos.</h3>
+<h3 align="center">Backend engineer with a focus on building scalable systems and integrating generative AI into real-world applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunshivakumar&label=Profile%20views&color=0e75b6&style=flat" alt="arjunshivakumar" /> </p>
 
